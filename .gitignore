@@ -1,0 +1,21 @@
+# Building and runtime files
+build/
+__build__/
+dist/
+node_modules/
+typings/
+/logs/
+*.log
+*.pid
+*.seed
+.webpack.json
+
+# Various
+/tmp/
+
+# Environmental
+.idea/
+.DS_Store
+Thumbs.db
+
+
